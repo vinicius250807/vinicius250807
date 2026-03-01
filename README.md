@@ -23,11 +23,3 @@ Sou um desenvolvedor focado em criar interfaces interativas e um desenhista apai
 **[Personal Theme Picker](https://github.com/vinicius250807/Page_theme)** — Um seletor de temas dinâmico com modo escuro e persistência de dados.
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinicius250807&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="Estatísticas de Vinícius" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius250807&layout=compact&theme=transparent" alt="Linguagens mais usadas" />
-</p>
