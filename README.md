@@ -5,10 +5,10 @@
 ### 👨‍💻 Sobre mim
 Sou um desenvolvedor focado em criar interfaces interativas e um desenhista apaixonado por tirar ideias do papel. No momento, estou explorando o mundo do Front-end e aperfeiçoando minhas técnicas de arte.
 
-* **🎨 Arte: Transformando café e referências em traços de Mangá.
-* **🖋️ Style: Focado em lineart e estética de Anime.
-* **✍️ Foco: Desenho de personagens e estilo Shonen/Seinen.
-* **💻 Dev:** Transformando designs em código funcional.
+* 🎨 Arte: Transformando café e referências em traços de Mangá.
+* 🖋️ Style: Focado em lineart e estética de Anime.
+* ✍️ Foco: Desenho de personagens e estilo Shonen/Seinen.
+* 💻 Dev:** Transformando designs em código funcional.
 
 ---
 
